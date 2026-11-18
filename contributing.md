@@ -184,4 +184,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Path of Exile 2 · Updated 2026-11-17 · Shared under the MIT License*
+*Path of Exile 2 · Updated 2026-11-18 · Shared under the MIT License*
